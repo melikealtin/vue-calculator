@@ -12,7 +12,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Screenshots
 
-![list-app](https://github.com/melikealtin/vue-calculator/blob/master/Screenshot%20(6).png)
+![calculator-app](https://github.com/melikealtin/vue-calculator/blob/master/Screenshot%20(6).png)
 
 ## Project Setup
 
